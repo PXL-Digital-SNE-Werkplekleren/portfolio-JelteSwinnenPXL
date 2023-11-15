@@ -11,7 +11,12 @@ Een portfolio is een verzameling van je werk en prestaties die je hebt gemaakt t
     - Boomzorg Loenders (Juli 2019-Aug 2020) - Studentenjob
     - Bat a Clan (Juli 2020 - nu) - Studentenjob enkel in vakanties
     - Peppermill (Okt 2021 - nu) - Studentenjob weekend
-    - SJ Projects (Sept 2023 - nu) - Student Zelfstandige in hoofdberoep
+    - SJ Projects (Sept 2023 - nu) - Student Zelfstandige
 - Hobby’s:
     - IOT projecten - Smart Home
-    - 
+    - Hackintoshen
+    - Homelabbing
+    - Photoshop
+    - Aandelen en Crypto
+
+    
