@@ -12,6 +12,10 @@ Vibegroup
 
 Carglass
 -   Helpdesk
+-   Top 3 dingen die klanten verwachten van een service desk
+        -   Transparantie
+        -   Zelfzekerheid
+        -   Oplossing voor het probleem
 -   Door te noteren waar de medewerker mee bezig is en een goede beschrijving van het probleem kunnen de incidenten sneller worden opgelost en ook over gezet naar een andere medewerker. Door dit idee toe te passen bij de helpdesk bij carglass hebben ze hun maandelijkse WIP incidenten kunnen verminderen van 400 tot 50 in 2023.
 
 ## Reflectie WPL 2
