@@ -1,6 +1,9 @@
 # Opdrachten
 
 ## Opdrachten WPL 1
+### Basisconfig router
+
+### Basisconfig switch
 
 ## Opdrachten WPL 2
 

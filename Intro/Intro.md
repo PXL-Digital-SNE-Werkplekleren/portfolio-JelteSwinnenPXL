@@ -18,5 +18,3 @@ Een portfolio is een verzameling van je werk en prestaties die je hebt gemaakt t
     - Homelabbing
     - Photoshop
     - Aandelen en Crypto
-
-    
