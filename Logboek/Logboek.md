@@ -7,7 +7,7 @@ kwaliteiten en ontwikkeling, gastcolleges gevolgd en kleine technische opdrachte
 
 ## Logboek WPL 1
 
-![](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JelteSwinnenPXL/blob/main/images/Planning.png)
+![](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JelteSwinnenPXL/blob/main/images/Planning.PNG)
 
 ## Logboek WPL 2
 
