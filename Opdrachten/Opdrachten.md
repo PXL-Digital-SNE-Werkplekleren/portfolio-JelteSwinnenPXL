@@ -2,19 +2,19 @@
 
 ## Opdrachten WPL 1
 ### POP opdrachten
--   [POP reflectieopdracht](./Opdrachten/Swinnen_Jelte_reflectie.pdf)
--   [POP opdracht planning](./Opdrachten/Swinnen_Jelte_planning.pdf)
+-   [POP reflectieopdracht](./Swinnen_Jelte_reflectie.pdf)
+-   [POP opdracht planning](./Swinnen_Jelte_planning.pdf)
 
 ### Technicsche opdrachten
 -   Toets talstelsels
 -   Oracle Linux opdracht
--   [Power App OLR's](./Opdrachten/Swinnen_Jelte_powerapp.pdf)
--   [Basisconfiguratie Router](./Opdrachten/Jelte_Swinnen_basisconfig_router.txt)
--   [Basisconfiguratie Switch](./Opdrachten/Jelte_Swinnen_basisconfig_switch.txt)
+-   [Power App OLR's](./Swinnen_Jelte_powerapp.pdf)
+-   [Basisconfiguratie Router](./Jelte_Swinnen_basisconfig_router.txt)
+-   [Basisconfiguratie Switch](./Jelte_Swinnen_basisconfig_switch.txt)
 
 ### Overige opdrachten
--   [CarrièreKompas](./Opdrachten/Swinnen_Jelte_mijn_loopbaan.pdf)
--   [Actualiteit groepswerk](./Opdrachten/Swinnen_Jelte_actualiteit.pdf)
+-   [CarrièreKompas](./Swinnen_Jelte_mijn_loopbaan.pdf)
+-   [Actualiteit groepswerk](./Swinnen_Jelte_actualiteit.pdf)
 
 Ik vond vooral de technische opdrachten interessant want daarom heb ik voor deze opleiding gekozen.
 
