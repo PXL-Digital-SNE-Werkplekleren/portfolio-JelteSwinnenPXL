@@ -2,7 +2,7 @@
 
 ## Opdrachten WPL 1
 ### POP opdrachten
--   [POP reflectieopdracht](/Opdrachten/Swinnen_Jelte_reflectie.pdf)
+-   [POP reflectieopdracht](./Swinnen_Jelte_reflectie.pdf)
 -   [POP opdracht planning](/Opdrachten/Swinnen_Jelte_planning.pdf)
 
 ### Technicsche opdrachten
