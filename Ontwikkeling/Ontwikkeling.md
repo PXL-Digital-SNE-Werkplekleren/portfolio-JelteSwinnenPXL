@@ -5,8 +5,7 @@
 Ik heb gekozen voor de opleiding "Systeem- en netwerkbeheer" vanwege mijn interesse in moderne technologische systemen. Het aspect dat mij het meest interesseert, is het ontwerpen, beveiligen en beheren van netwerken, omdat dit de basis vormt van de moderne samenleving. In de toekomst zie ik mezelf werken in een dynamische organisatie die streeft naar innovatie, waar ik verantwoordelijk ben voor het optimaliseren en beveiligen van IT-infrastructuren. Dit beroep past bij mij vanwege mijn affiniteit met probleemoplossing, analytisch denken en mijn interesse in de constante evolutie van technologieën.
 
 ### Mijn beeld van dit beroep
-Beschrijf in min. 5 à 10 zinnen hoe jij de invulling van dit beroep ziet. Welk beeld heb je gekregen na
-het volgen van WPL1 (bv. door je analyse van vacatures, gastseminaries, opdrachten enz).
+Na het volgen van WPL1 merk ik dat deze functie dynamisch is, met een focus op continue innovatie. In een organisatie zal ik betrokken zijn bij projecten die gericht zijn op het implementeren van nieuwe technologieën. Mijn affiniteit met probleemoplossing, analytisch denken en de constante evolutie van technologieën sluiten goed aan bij dit beroep. Ik ben nu wel ervan bewust dat ik niet bij een helpdesk wil gaan werken. Er zijn nog heel veel andere vacatures die heel uiteenlopend zijn.
 
 ### Competenties systemen en netwerken
 De leerdoelstellingen voor iemand die afstudeert in een graduaat systemen en netwerken staan in

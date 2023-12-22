@@ -1,0 +1,39 @@
+enable
+conf t
+hostname [hostname]
+banner motd #
+[banner inhoud]
+#
+
+security passwords min-length [length]
+login block-for [minutes] attempts [attempts] within [minutes]
+enable secret [secret]
+
+line con 0
+password [password]
+login
+
+ip domain name [domain]
+crypto key generate rsa general-keys modulus [modulus]
+username [username] secret [password]
+
+line vty 0 4
+login local
+
+transport input ssh
+
+service password-encryption
+
+
+interface [interface]
+description [wan]
+ip address [IP] [subnet]
+no shutdown
+
+
+interface [interface]
+description [lan]
+ip address [IP] [subnet]
+no shutdown
+
+
