@@ -21,13 +21,14 @@ Carglass
 -   Door te noteren waar de medewerker mee bezig is en een goede beschrijving van het probleem kunnen de incidenten sneller worden opgelost en ook over gezet naar een andere medewerker. Door dit idee toe te passen bij de helpdesk bij carglass hebben ze hun maandelijkse WIP incidenten kunnen verminderen van 400 tot 50 in 2023.
 
 ### X-Factor
-Wat is de X-factor?
+#### Wat is de X-factor?
 -   Model voor de ‘eXcellente professional’
 -   Geheel van hard en soft skills: context om je persoonlijk en professioneel verderte ontwikkelen
 -   Dubbele werking: kompas en kijkwijzer
     -   Kompas -> wijst de weg naar uiteindelijke doel
     -   Kijkwijzer -> maatstaf voor (zelf)reflectie
 
+#### X-factor opdracht
 - Wat is jouw passie? Hoe houdt dit verband met de opleiding die je bent aangevat? 
 Mijn passie is technologie. Deze studie sluit goed aan met mijn passie want we gaan dieper in op de dingen die me interesseren.
 
