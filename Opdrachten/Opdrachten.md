@@ -2,19 +2,19 @@
 
 ## Opdrachten WPL 1
 ### POP opdrachten
--   [POP reflectieopdracht](./Swinnen_Jelte_reflectie.pdf)
--   [POP opdracht planning](./Swinnen_Jelte_planning.pdf)
+-   [POP reflectieopdracht](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JelteSwinnenPXL/blob/main/Opdrachten/Swinnen_Jelte_reflectie.pdf)
+-   [POP opdracht planning](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JelteSwinnenPXL/blob/main/Opdrachten/Swinnen_Jelte_planning.pdf)
 
 ### Technicsche opdrachten
 -   Toets talstelsels
 -   Oracle Linux opdracht
--   [Power App OLR's](./Swinnen_Jelte_powerapp.pdf)
--   [Basisconfiguratie Router](./Jelte_Swinnen_basisconfig_router.txt)
--   [Basisconfiguratie Switch](./Jelte_Swinnen_basisconfig_switch.txt)
+-   [Power App OLR's](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JelteSwinnenPXL/blob/main/Opdrachten/Swinnen_Jelte_powerapp.pdf)
+-   [Basisconfiguratie Router](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JelteSwinnenPXL/blob/main/Opdrachten/Jelte_Swinnen_basisconfig_router.txt)
+-   [Basisconfiguratie Switch](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JelteSwinnenPXL/blob/main/Opdrachten/Jelte_Swinnen_basisconfig_switch.txt)
 
 ### Overige opdrachten
--   [CarrièreKompas](./Swinnen_Jelte_mijn_loopbaan.pdf)
--   [Actualiteit groepswerk](./Swinnen_Jelte_actualiteit.pdf)
+-   [CarrièreKompas](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JelteSwinnenPXL/blob/main/Opdrachten/Swinnen_Jelte_mijn_loopbaan.pdf)
+-   [Actualiteit groepswerk](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JelteSwinnenPXL/blob/main/Opdrachten/Swinnen_Jelte_actualiteit.pdf)
 
 Ik vond vooral de technische opdrachten interessant want daarom heb ik voor deze opleiding gekozen.
 
