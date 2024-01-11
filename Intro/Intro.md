@@ -1,5 +1,5 @@
 # Inleiding
-Een portfolio is een verzameling van je werk en prestaties die je hebt gemaakt tijdens je studie of carrière. Het wordt gebruikt om je ontwikkeling te documenteren, je vaardigheden te tonen en te delen met docenten, werkgevers of anderen. Het is een handig instrument voor zelfevaluatie en kan helpen bij toekomstige sollicitaties of beoordelingen.
+Dit portfolio is een verzameling van mijn werk en prestaties die ik hebt gemaakt tijdens mijn studie (Systeem- en netwerkbeheer). Een portfolio wordt gebruikt om je ontwikkeling te documenteren, je vaardigheden te tonen en te delen met docenten, werkgevers of anderen. Het is een handig instrument voor zelfevaluatie en kan helpen bij toekomstige sollicitaties of beoordelingen.
 
 # Persoonlijke info
 - Jelte Swinnen, 18
@@ -18,3 +18,6 @@ Een portfolio is een verzameling van je werk en prestaties die je hebt gemaakt t
     - Homelabbing
     - Photoshop
     - Aandelen en Crypto
+
+# CV
+<img src="./images/Jelte Swinnen.jpg" width="100%">
