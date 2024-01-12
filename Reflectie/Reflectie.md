@@ -30,42 +30,54 @@ Carglass
 
 #### X-factor opdracht
 - Wat is jouw passie? Hoe houdt dit verband met de opleiding die je bent aangevat? 
+
 Mijn passie is technologie. Deze studie sluit goed aan met mijn passie want we gaan dieper in op de dingen die me interesseren.
 
--Wat geeft jou energie en goesting? En hoe zie je dit in je opleiding die je bent aangevat?
+- Wat geeft jou energie en goesting? En hoe zie je dit in je opleiding die je bent aangevat?
+
 Muziek, vrienden en geld. Dit zit niet in mijn opleiding. Ik zoek mijn energie en motivatie dus buiten mijn studies.
 
 - Hoe zie je jezelf in dialoog gaan met anderen in de opleiding die je bent aangevat? 
+
 In de opleiding ben ik van plan actief deel te nemen aan dialogen door open te staan voor diverse perspectieven en constructief mijn inzichten te delen. Mijn doel is een positieve en ondersteunende leeromgeving te bevorderen waarin we allemaal van elkaars kennis kunnen profiteren.
 
 - Wat versta jij onder een ken-doementaliteit  (ondernemend zijn in de brede zin van het woord) en hoe zie je dat in de opleiding die je bent aangevat?
+
 Voor mij betekent een ken-doementaliteit in systeem- en netwerkbeheer het proactief verwerven en toepassen van kennis, gecombineerd met ondernemerschap. In de opleiding zoek ik actief naar mogelijkheden om mijn technische vaardigheden toe te passen in praktische scenario's en blijf ik streven naar innovatie binnen het vakgebied.
 
-- Hoe ver sta jij op dit moment al in een ken-doementaliteit? 
+- Hoe ver sta jij op dit moment al in een ken-doementaliteit?
+
 Ken: Ik ken al veel basis van de lessen die ik heb dus dat probeer ik zoveel mogelijk ook toe te passen. 
 Doe: Ik doe wat er van mij verwacht wordt, voor de rest doe ik niets extra voor mijn studies.
 
 - Hoe ziet jouw netwerk er op dit moment uit? Kan je dit netwerk inzetten in functie van de opleiding die je hebt aangevat?
+
 Ik heb een netwerk met vooral mensen uit mechanica, wiskunde, fysica, horeca, elektriciteit en bouw dus dat sluit niet goed aan met mijn studiekeuze.
 
 - Hoe zou jij internationaal samen kunnen werken in de opleiding die je hebt aangevat?
+
 Geen idee, ik heb nog nooit internationaal samengewerkt.
 
  
 - Wat weet je op dit moment al over de inhouden van je opleiding?
+
 Ik denk dat ik al een goede basiskennis heb maar ik weet nog niet alles. Tot nu toe vind ik de vakken wel interessant.
 
 - Met welke andere disciplines (opleidingen / beroepen / ...) zou jij in aanraking kunnen komen in je opleiding?
+
 Opleidingen: internet of things, programmeren, digitale vormgeving
-Beroepen: leerkrachten, managers, ondernemers
+Beroepen: lectoren, managers, ondernemers
 
 - Hoe ziet je X-factor er op dit moment al uit? Welke ervaringen heb je al?
+
 Ik koester een diepe passie voor IT en ben bedreven in het luisteren naar anderen, wat mijn motivatie is om als studentenvertegenwoordiger actief te zijn. Mijn neiging om out of the box te denken maakt me eveneens innovatief.
 
 - Hoe zou je je X-factor kunnen vertalen naar de opleiding waarvoor je gekozen hebt?
+
 Het vereist een specifieke passie om op de hoogte te blijven van de nieuwste ontwikkelingen in IT; mijn enthousiasme geeft me dan ook een aanzienlijk voordeel. Daarnaast ben ik zeer bedreven in het snel leggen van contacten en het uitbreiden van mijn professionele netwerk, wat me in de toekomst aanzienlijk zal bijstaan.
 
 - Hoe zou jij je X-factor verder kunnen ontwikkelen?
+
 Meer nadruk leggen op ondernemerschap is mijn doel; hoewel ik gepassioneerd ben, ontbreekt het soms aan evenredige uitvoering vanwege neiging tot uitstelgedrag.
 
 

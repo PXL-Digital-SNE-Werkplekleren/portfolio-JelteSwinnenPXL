@@ -98,8 +98,6 @@ deze tabel samengevat:
 
 
 ### Mijn evolutie tijdens WPL1
-Je mag de volgende punten in bullets noteren maar je moet wel volledige, correct Nederlandse zinnen
-maken. Voorbeelden vind je in het voorbeeld-portfolio.
 
 Mijn belangrijke leermomenten van WPL1 waren de volgende:
 * De OLR app opdracht van Meneer Ludwig Vaes.
