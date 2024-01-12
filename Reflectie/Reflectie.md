@@ -58,7 +58,6 @@ Ik heb een netwerk met vooral mensen uit mechanica, wiskunde, fysica, horeca, el
 
 Geen idee, ik heb nog nooit internationaal samengewerkt.
 
- 
 - Wat weet je op dit moment al over de inhouden van je opleiding?
 
 Ik denk dat ik al een goede basiskennis heb maar ik weet nog niet alles. Tot nu toe vind ik de vakken wel interessant.
