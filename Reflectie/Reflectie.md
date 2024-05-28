@@ -83,6 +83,8 @@ Meer nadruk leggen op ondernemerschap is mijn doel; hoewel ik gepassioneerd ben,
 
 ## Reflectie WPL 2
 
+Over het algemeen verliepen de opdrachten vlot. We werkten als team goed samen. Soms was het wel moeilijk om documenten van opdrachten of richtlijnen terug te vinden in teams. Het was soms moeilijk om degene te zijn die de meeste opdrachten vlot afwerkte, wat betekend dat ik op het einde van de sprints de meeste opdrachten had afgewerkt en teamleden dan vragen of ze die over mogen nemen. De sfeer in het team was wel heel goed, we konden af en toe lachen maar ook serieus doorwerken als het moest.
+
 ## Reflectie WPL 3
 
 ## Reflectie WPL 4
