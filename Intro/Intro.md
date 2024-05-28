@@ -20,4 +20,4 @@ Dit portfolio is een verzameling van mijn werk en prestaties die ik hebt gemaakt
     - Aandelen en Crypto
 
 # CV
-<img src="./images/Jelte Swinnen.jpg" width="100%">
+<img src="./CV.jpg" width="100%">
