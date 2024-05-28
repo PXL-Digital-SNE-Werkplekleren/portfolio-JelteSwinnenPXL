@@ -27,6 +27,11 @@ Mijn beste opdrachten vind ik:
 
 ## Opdrachten WPL 2
 
+Tijdens WPL2 heb ik me vooral bezig gehouden met Active Directory, powershell scripts, Fileserver, Backup, LMS en Firewall. Het was belangrijk om een eenvoudige omgeving op te bouwen voor een school waar het hele schoolteam een eigen profiel heeft en kan inloggen op windows/linux systemen maar ook op de intranet site en Moodle (Learning Management System). Ook security van het netwerk en backuppen van machines heb ik gemaakt. Het blokkeren van illegale of gok sites heb ik ook gedaan.
+
+-   [Installatie Veeam (Backup)](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JelteSwinnenPXL/blob/main/Opdrachten/Veeam_installatie.pdf)
+-   [Installatie Moodle (LMS)](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JelteSwinnenPXL/blob/main/Opdrachten/Moodle_installatie.pdf)
+
 ## Opdrachten WPL 3
 
 ## Opdrachten WPL 4
