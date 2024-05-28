@@ -12,6 +12,8 @@ kwaliteiten en ontwikkeling, gastcolleges gevolgd en kleine technische opdrachte
 
 ## Logboek WPL 2
 
+Zie Opdrachten en Reflectie
+
 ## Logboek WPL 3
 
 ## Logboek WPL4
