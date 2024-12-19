@@ -16,4 +16,8 @@ Zie Opdrachten en Reflectie
 
 ## Logboek WPL 3
 
+Tijdens WPL3 heb ik brede en waardevolle ervaring opgedaan. Ik heb vooral gewerkt aan serverbeheer, waaronder RAID 5-configuraties en het installeren en configureren van Synology NAS'en en HPE servers, waarbij ik virtueel HPE StoreOnce heb geinstalleerd en DOA harde schijven heb vervangen. Daarnaast heb ik laptops voorbereid voor klanten, zoals het installeren van Windows 11 Pro en applicaties, het uitvoeren van unattended installs en het instellen van domeinverbindingen.
+
+Ook heb ik mijn kennis van security versterkt door te werken met tools zoals Veeam Backup & Replication, het instellen van cloud backups en het configureren van WatchGuard-firewalls. Bij projecten zoals het beveiligen van bedrijven heb ik geleerd hoe belangrijk gestructureerd werken en documenteren is. 
+
 ## Logboek WPL4
