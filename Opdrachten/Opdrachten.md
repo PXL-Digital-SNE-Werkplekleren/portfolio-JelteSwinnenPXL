@@ -33,5 +33,8 @@ Tijdens WPL2 heb ik me vooral bezig gehouden met Active Directory, powershell sc
 -   [Installatie Moodle (LMS)](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JelteSwinnenPXL/blob/main/Opdrachten/Moodle_installatie.pdf)
 
 ## Opdrachten WPL 3
+-   [WPL3-SNE_Intervisie_Leerdoelen Werkkwaliteiten_SwinnenJelte](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JelteSwinnenPXL/blob/main/Opdrachten/WPL3-SNE_Intervisie_Leerdoelen%20Werkkwaliteiten_SwinnenJelte_24.pdf)
+-   [ProbleemsituatieWPL32SNEaSwinnenJelte_Naverwerking](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JelteSwinnenPXL/blob/main/Opdrachten/ProbleemsituatieWPL32SNEaSwinnenJelte_Naverwerking.pdf)
+-   [ProbleemsituatieWPL32SNEaSwinnenJelte](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JelteSwinnenPXL/blob/main/Opdrachten/ProbleemsituatieWPL32SNEaSwinnenJelte.pdf)
 
 ## Opdrachten WPL 4
