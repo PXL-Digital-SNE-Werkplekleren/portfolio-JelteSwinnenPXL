@@ -87,4 +87,35 @@ Over het algemeen verliepen de opdrachten vlot. We werkten als team goed samen. 
 
 ## Reflectie WPL 3
 
+Tijdens WPL3 heb ik brede en waardevolle ervaring opgedaan in serverbeheer en IT-security. Ik ben trots op mijn technische vooruitgang en de positieve feedback die ik heb ontvangen. Het was ook inspirerend om in een professionele werkomgeving samen te werken en mijn kennis direct toe te passen.
+
+Ik heb diverse taken uitgevoerd, waaronder:
+
+- Het configureren van RAID 5.
+
+- Het installeren en configureren van Synology NAS’en en HPE-servers.
+
+- Het vervangen van DOA harde schijven en het installeren van virtuele HPE StoreOnce-systemen.
+
+- Het voorbereiden van laptops voor klanten met Windows 11 Pro, inclusief unattended installs en domeinverbindingen.
+
+Daarnaast heb ik mijn kennis van security uitgebreid door:
+
+- Het werken met Veeam Backup & Replication.
+
+- Het instellen van cloudback-ups.
+
+- Het configureren van een virtuele WatchGuard-firewall.
+
+De werksfeer op mijn stageplek was zeer positief. Het team was behulpzaam en professioneel, en er was een goede balans tussen zelfstandigheid en ondersteuning.
+
+De samenwerking met mijn werkplekcoach en collega’s verliep soepel. Mijn werkplekcoach gaf duidelijke opdrachten en goede feedback. Collega’s stonden ook altijd klaar om te helpen.
+
+Verbeterpunten voor WPL4:
+
+Meer rekening houden met OLR's.
+
+Vooruitblik: 
+Ik wil mijn kennis van virtualisatie (bijvoorbeeld met Hyper-V en geautomatiseerde IT-processen verder uitbreiden. Daarnaast wil ik mijn talenten op het gebied van analytisch denken en probleemoplossing nog meer benutten en toepassen.
+
 ## Reflectie WPL 4
