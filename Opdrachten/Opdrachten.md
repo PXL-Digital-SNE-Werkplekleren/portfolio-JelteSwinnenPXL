@@ -29,13 +29,13 @@ Mijn beste opdrachten vind ik:
 
 Tijdens WPL2 heb ik me vooral bezig gehouden met Active Directory, powershell scripts, Fileserver, Backup, LMS en Firewall. Het was belangrijk om een eenvoudige omgeving op te bouwen voor een school waar het hele schoolteam een eigen profiel heeft en kan inloggen op windows/linux systemen maar ook op de intranet site en Moodle (Learning Management System). Ook security van het netwerk en backuppen van machines heb ik gemaakt. Het blokkeren van illegale of gok sites heb ik ook gedaan.
 
--   [Installatie Veeam (Backup)](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JelteSwinnenPXL/blob/main/Opdrachten/Veeam_installatie.pdf)
--   [Installatie Moodle (LMS)](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JelteSwinnenPXL/blob/main/Opdrachten/Moodle_installatie.pdf)
+-   [Installatie Veeam (Backup)](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JelteSwinnenPXL/Opdrachten/Veeam_installatie.pdf)
+-   [Installatie Moodle (LMS)](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JelteSwinnenPXL/Opdrachten/Moodle_installatie.pdf)
 
 ## Opdrachten WPL 3
--   [WPL3-SNE_Intervisie_Leerdoelen Werkkwaliteiten_SwinnenJelte](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JelteSwinnenPXL/blob/main/Opdrachten/WPL3-SNE_Intervisie_Leerdoelen%20Werkkwaliteiten_SwinnenJelte_24.pdf)
+-   [WPL3-SNE_Intervisie_Leerdoelen Werkkwaliteiten_SwinnenJelte](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JelteSwinnenPXL/Opdrachten/WPL3-SNE_Intervisie_Leerdoelen%20Werkkwaliteiten_SwinnenJelte_24.pdf)
 #### NOTE: Na het aangeven van het probleem tijdens het driehoeksgesprek kreeg ik veel meer en concretere opdrachten.
--   [ProbleemsituatieWPL32SNEaSwinnenJelte_Naverwerking](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JelteSwinnenPXL/blob/main/Opdrachten/ProbleemsituatieWPL32SNEaSwinnenJelte_Naverwerking.pdf)
--   [ProbleemsituatieWPL32SNEaSwinnenJelte](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JelteSwinnenPXL/blob/main/Opdrachten/ProbleemsituatieWPL32SNEaSwinnenJelte.pdf)
+-   [ProbleemsituatieWPL32SNEaSwinnenJelte_Naverwerking](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JelteSwinnenPXL/Opdrachten/ProbleemsituatieWPL32SNEaSwinnenJelte_Naverwerking.pdf)
+-   [ProbleemsituatieWPL32SNEaSwinnenJelte](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JelteSwinnenPXL/Opdrachten/ProbleemsituatieWPL32SNEaSwinnenJelte.pdf)
 
 ## Opdrachten WPL 4
