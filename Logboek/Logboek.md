@@ -21,6 +21,6 @@ Tijdens WPL3 heb ik brede en waardevolle ervaring opgedaan. Ik heb vooral gewerk
 Ook heb ik mijn kennis van security versterkt door te werken met tools zoals Veeam Backup & Replication, het instellen van cloud backups en het configureren van WatchGuard-firewalls. Bij projecten zoals het beveiligen van bedrijven heb ik geleerd hoe belangrijk gestructureerd werken en documenteren is. 
 
 Link naar Logboek:
--   [Logboek](https://pxl-digital-sne-werkplekleren.github.io/portfolio-JelteSwinnenPXL/Opdrachten/WPL3-Logboek_SwinnenJelte.pdf)
+-   [Logboek](https://pxl-digital-sne-werkplekleren.github.io/portfolio-JelteSwinnenPXL/Logboek/WPL3-Logboek_SwinnenJelte.pdf)
 
 ## Logboek WPL4
