@@ -13,10 +13,10 @@ In termen van soft skills heb ik mijn probleemoplossend vermogen en zelfstandigh
 
 De ontvangen feedback van mijn werkplekcoach was heel positief.
 
--   [WPL3-FG-werkkwaliteiten_SwinnenJelte.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JelteSwinnenPXL/blob/main/Ontwikkeling/WPL3-FG-werkkwaliteiten_SwinnenJelte.pdf)
--   [WPL3-FG-werkprestaties_SwinnenJelte.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JelteSwinnenPXL/blob/main/Ontwikkeling/WPL3-FG-werkprestaties_SwinnenJelte.pdf)
--   [WPL3-EG-werkkwaliteiten_SwinnenJelte.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JelteSwinnenPXL/blob/main/Ontwikkeling/WPL3-EG-werkkwaliteiten_SwinnenJelte.pdf)
--   [WPL3-EG-werkprestaties_SwinnenJelte.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JelteSwinnenPXL/blob/main/Ontwikkeling/WPL3-EG-werkprestaties_SwinnenJelte.pdf)
+-   [WPL3-FG-werkkwaliteiten_SwinnenJelte.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JelteSwinnenPXL/Ontwikkeling/WPL3-FG-werkkwaliteiten_SwinnenJelte.pdf)
+-   [WPL3-FG-werkprestaties_SwinnenJelte.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JelteSwinnenPXL/Ontwikkeling/WPL3-FG-werkprestaties_SwinnenJelte.pdf)
+-   [WPL3-EG-werkkwaliteiten_SwinnenJelte.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JelteSwinnenPXL/Ontwikkeling/WPL3-EG-werkkwaliteiten_SwinnenJelte.pdf)
+-   [WPL3-EG-werkprestaties_SwinnenJelte.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JelteSwinnenPXL/Ontwikkeling/WPL3-EG-werkprestaties_SwinnenJelte.pdf)
 
 
 
