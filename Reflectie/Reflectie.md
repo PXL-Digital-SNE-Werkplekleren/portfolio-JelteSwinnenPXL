@@ -127,7 +127,6 @@ Ik heb diverse taken uitgevoerd, waaronder:
 - Het installeren en configureren van laptops, servers en virtuele machines (ESXi, Hyper-V).
 - Het automatiseren van installaties via PowerShell, Ansible en Terraform.
 - Het opzetten van back-upoplossingen met Veeam, Synology en Cove Backup.
-- Het testen en implementeren van monitoringtools zoals Observium en SentinelOne.
 - Het uitvoeren van migraties en upgrades van firewalls (WatchGuard) en het oplossen van hardwareproblemen.
 
 Daarnaast heb ik mijn kennis van automatisering en security uitgebreid door:
