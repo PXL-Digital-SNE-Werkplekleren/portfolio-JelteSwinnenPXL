@@ -119,3 +119,29 @@ Vooruitblik:
 Ik wil mijn kennis van virtualisatie (bijvoorbeeld met Hyper-V en geautomatiseerde IT-processen verder uitbreiden. Daarnaast wil ik mijn talenten op het gebied van analytisch denken en probleemoplossing nog meer benutten en toepassen.
 
 ## Reflectie WPL 4
+
+Tijdens WPL4 heb ik mijn technische vaardigheden verder verdiept en verbreed, met een sterke focus op automatisering, virtualisatie en IT-beheer. Ik ben trots op de zelfstandigheid die ik heb ontwikkeld en de complexe taken die ik succesvol heb uitgevoerd. Het was bijzonder leerrijk om in een professionele IT-omgeving te werken waar ik mijn kennis direct kon toepassen en uitbreiden.
+
+Ik heb diverse taken uitgevoerd, waaronder:
+
+- Het installeren en configureren van laptops, servers en virtuele machines (ESXi, Hyper-V).
+- Het automatiseren van installaties via PowerShell, Ansible en Terraform.
+- Het opzetten van back-upoplossingen met Veeam en Cove Backup.
+- Het testen en implementeren van monitoringtools zoals Observium en SentinelOne.
+- Het uitvoeren van migraties en upgrades van firewalls (WatchGuard) en het oplossen van hardwareproblemen.
+
+Daarnaast heb ik mijn kennis van automatisering en security uitgebreid door:
+
+- Het ontwikkelen van unattended installaties voor Windows.
+- Het configureren van een immutable backup repository op Synology NAS.
+- Het werken met Intune, Active Directory en Microsoft Graph API.
+- Het opzetten van een geautomatiseerde omgeving als onderdeel van mijn graduaatsproef.
+- 
+De werksfeer was zeer positief. Ik voelde me gewaardeerd binnen het team en kreeg voldoende ruimte om zelfstandig te werken, met ondersteuning waar nodig. De samenwerking met mijn werkplekcoach en collega’s verliep vlot en constructief. Feedback werd steeds op een duidelijke en motiverende manier gegeven.
+
+Verbeterpunten voor de toekomst:
+Nog beter plannen en structureren van grotere projecten.
+Meer documentatie voorzien tijdens technische implementaties.
+
+Vooruitblik: 
+Ik wil mijn kennis van geautomatiseerde IT-processen en virtualisatie verder verdiepen, en mijn vaardigheden in scripting en infrastructuurbeheer blijven ontwikkelen. Ook wil ik mij verdiepen in Cloud infrastructure.
