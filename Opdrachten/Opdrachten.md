@@ -33,11 +33,11 @@ Tijdens WPL2 heb ik me vooral bezig gehouden met Active Directory, powershell sc
 -   [Installatie Moodle (LMS)](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JelteSwinnenPXL/Opdrachten/Moodle_installatie.pdf)
 
 ## Opdrachten WPL 3
--   [WPL3-SNE_Intervisie_Leerdoelen Werkkwaliteiten_SwinnenJelte](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JelteSwinnenPXL/Opdrachten/WPL3-SNE_Intervisie_Leerdoelen%20Werkkwaliteiten_SwinnenJelte_24.pdf)
+-   [WPL3-SNE_Intervisie_Leerdoelen Werkkwaliteiten_SwinnenJelte](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JelteSwinnenPXL/blob/main/Opdrachten/WPL3-SNE_Intervisie_Leerdoelen%20Werkkwaliteiten_SwinnenJelte_24.pdf)
 #### NOTE: Na het aangeven van het probleem tijdens het driehoeksgesprek kreeg ik veel meer en concretere opdrachten.
--   [ProbleemsituatieWPL32SNEaSwinnenJelte_Naverwerking](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JelteSwinnenPXL/Opdrachten/ProbleemsituatieWPL32SNEaSwinnenJelte_Naverwerking.pdf)
--   [ProbleemsituatieWPL32SNEaSwinnenJelte](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JelteSwinnenPXL/Opdrachten/ProbleemsituatieWPL32SNEaSwinnenJelte.pdf)
+-   [ProbleemsituatieWPL32SNEaSwinnenJelte_Naverwerking](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JelteSwinnenPXL/blob/main/Opdrachten/ProbleemsituatieWPL32SNEaSwinnenJelte_Naverwerking.pdf)
+-   [ProbleemsituatieWPL32SNEaSwinnenJelte](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JelteSwinnenPXL/blob/main/Opdrachten/ProbleemsituatieWPL32SNEaSwinnenJelte.pdf)
 
 ## Opdrachten WPL 4
--   [WPL_Eindreflectie](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JelteSwinnenPXL/Opdrachten/WPL_Eindreflectie_SwinnenJelte.pdf)
--   [WPL_Intervisie_opdracht_25-03](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JelteSwinnenPXL/Opdrachten/WPL_Intervisie_opdracht_25-03_SwinnenJelte.pdf)
+-   [WPL_Eindreflectie](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JelteSwinnenPXL/blob/main/Opdrachten/WPL_Eindreflectie_SwinnenJelte.pdf)
+-   [WPL_Intervisie_opdracht_25-03](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JelteSwinnenPXL/blob/main/Opdrachten/WPL_Intervisie_opdracht_25-03_SwinnenJelte.pdf)
