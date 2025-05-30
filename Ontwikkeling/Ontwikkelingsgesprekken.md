@@ -13,17 +13,17 @@ In termen van soft skills heb ik mijn probleemoplossend vermogen en zelfstandigh
 
 De ontvangen feedback van mijn werkplekcoach was heel positief.
 
--   [WPL3-FG-werkkwaliteiten_SwinnenJelte.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JelteSwinnenPXL/Ontwikkeling/WPL3-FG-werkkwaliteiten_SwinnenJelte.pdf)
--   [WPL3-FG-werkprestaties_SwinnenJelte.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JelteSwinnenPXL/Ontwikkeling/WPL3-FG-werkprestaties_SwinnenJelte.pdf)
--   [WPL3-EG-werkkwaliteiten_SwinnenJelte.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JelteSwinnenPXL/Ontwikkeling/WPL3-EG-werkkwaliteiten_SwinnenJelte.pdf)
--   [WPL3-EG-werkprestaties_SwinnenJelte.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JelteSwinnenPXL/Ontwikkeling/WPL3-EG-werkprestaties_SwinnenJelte.pdf)
+-   [WPL3-FG-werkkwaliteiten_SwinnenJelte.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JelteSwinnenPXL/blob/main/Ontwikkeling/WPL3-FG-werkkwaliteiten_SwinnenJelte.pdf)
+-   [WPL3-FG-werkprestaties_SwinnenJelte.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JelteSwinnenPXL/blob/main/Ontwikkeling/WPL3-FG-werkprestaties_SwinnenJelte.pdf)
+-   [WPL3-EG-werkkwaliteiten_SwinnenJelte.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JelteSwinnenPXL/blob/main/Ontwikkeling/WPL3-EG-werkkwaliteiten_SwinnenJelte.pdf)
+-   [WPL3-EG-werkprestaties_SwinnenJelte.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JelteSwinnenPXL/blob/main/Ontwikkeling/WPL3-EG-werkprestaties_SwinnenJelte.pdf)
 
 
 
 
 ## Overzicht ontwikkelingsgesprekken WPL 4
 
--   [WPL4-FG-werkkwaliteiten_SwinnenJelte.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JelteSwinnenPXL/Ontwikkeling/WPL4-FG-werkkwaliteiten_SwinnenJelte.pdf)
--   [WPL4-FG-werkprestaties_SwinnenJelte.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JelteSwinnenPXL/Ontwikkeling/WPL4-FG-werkprestaties_SwinnenJelte.pdf)
--   [WPL4-EG-werkkwaliteiten_SwinnenJelte.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JelteSwinnenPXL/Ontwikkeling/WPL4-EG-werkkwaliteiten_SwinnenJelte.pdf)
--   [WPL4-EG-werkprestaties_SwinnenJelte.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JelteSwinnenPXL/Ontwikkeling/WPL4-EG-werkprestaties_SwinnenJelte.pdf)
+-   [WPL4-FG-werkkwaliteiten_SwinnenJelte.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JelteSwinnenPXL/blob/main/Ontwikkeling/WPL4-FG-werkkwaliteiten_SwinnenJelte.pdf)
+-   [WPL4-FG-werkprestaties_SwinnenJelte.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JelteSwinnenPXL/blob/main/Ontwikkeling/WPL4-FG-werkprestaties_SwinnenJelte.pdf)
+-   [WPL4-EG-werkkwaliteiten_SwinnenJelte.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JelteSwinnenPXL/blob/main/Ontwikkeling/WPL4-EG-werkkwaliteiten_SwinnenJelte.pdf)
+-   [WPL4-EG-werkprestaties_SwinnenJelte.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JelteSwinnenPXL/blob/main/Ontwikkeling/WPL4-EG-werkprestaties_SwinnenJelte.pdf)
