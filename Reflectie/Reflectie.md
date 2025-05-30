@@ -135,7 +135,7 @@ Daarnaast heb ik mijn kennis van automatisering en security uitgebreid door:
 - Het configureren van een immutable backup repository op Synology NAS.
 - Het werken met Intune, Active Directory en Microsoft Graph API.
 - Het opzetten van een geautomatiseerde omgeving als onderdeel van mijn graduaatsproef.
-- 
+ 
 De werksfeer was zeer positief. Ik voelde me gewaardeerd binnen het team en kreeg voldoende ruimte om zelfstandig te werken, met ondersteuning waar nodig. De samenwerking met mijn werkplekcoach en collega’s verliep vlot en constructief. Feedback werd steeds op een duidelijke en motiverende manier gegeven.
 
 Verbeterpunten voor de toekomst:
