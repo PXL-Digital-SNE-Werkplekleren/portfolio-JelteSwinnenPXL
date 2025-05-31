@@ -26,3 +26,6 @@ Link naar Logboek:
 Tijdens mijn stage bij Business Network Systems heb ik gewerkt aan een breed scala aan IT-gerelateerde taken. Ik heb onder andere laptops en servers geïnstalleerd en geconfigureerd, Windows-omgevingen opgezet, back-ups gemaakt en hersteld, en problemen met hardware en software opgelost. Daarnaast heb ik gewerkt met tools zoals Ansible, Terraform, Intune en PowerDNS, en heb ik ervaring opgedaan met virtualisatie via ESXi en Hyper-V.
 
 Een belangrijk onderdeel van mijn stage was het opzetten van automatiseringen, zoals unattended installs van Windows en SQL Server, en het configureren van monitoring- en back-upoplossingen. Ook heb ik actief bijgedragen aan de voorbereiding en uitvoering van migraties, zoals firewall upgrades en de overschakeling van gebruikers naar nieuwe systemen. Tot slot heb ik gewerkt aan mijn graduaatsproef rond automatisering, waarbij ik scripts heb geschreven en getest.
+
+Link naar Logboek:
+-   [Logboek](https://pxl-digital-sne-werkplekleren.github.io/portfolio-JelteSwinnenPXL/Logboek/WPL4-Logboek_SwinnenJelte.pdf)
