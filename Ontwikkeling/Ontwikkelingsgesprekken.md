@@ -23,7 +23,7 @@ De ontvangen feedback van mijn werkplekcoach was heel positief.
 
 ## Overzicht ontwikkelingsgesprekken WPL 4
 
--   [WPL4-FG-werkkwaliteiten_SwinnenJelte.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JelteSwinnenPXL/Ontwikkeling/WPL4-FG-werkkwaliteiten_SwinnenJelte.pdf)
--   [WPL4-FG-werkprestaties_SwinnenJelte.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JelteSwinnenPXL/Ontwikkeling/WPL4-FG-werkprestaties_SwinnenJelte.pdf)
--   [WPL4-EG-werkkwaliteiten_SwinnenJelte.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JelteSwinnenPXL/Ontwikkeling/WPL4-EG-werkkwaliteiten_SwinnenJelte.pdf)
--   [WPL4-EG-werkprestaties_SwinnenJelte.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JelteSwinnenPXL/Ontwikkeling/WPL4-EG-werkprestaties_SwinnenJelte.pdf)
+-   [WPL4-FG-werkkwaliteiten_SwinnenJelte.pdf](https://pxl-digital-sne-werkplekleren.github.io/portfolio-JelteSwinnenPXL/Ontwikkeling/WPL4-FG-werkkwaliteiten_SwinnenJelte.pdf)
+-   [WPL4-FG-werkprestaties_SwinnenJelte.pdf](https://pxl-digital-sne-werkplekleren.github.io/portfolio-JelteSwinnenPXL/Ontwikkeling/WPL4-FG-werkprestaties_SwinnenJelte.pdf)
+-   [WPL4-EG-werkkwaliteiten_SwinnenJelte.pdf](https://pxl-digital-sne-werkplekleren.github.io/portfolio-JelteSwinnenPXL/Ontwikkeling/WPL4-EG-werkkwaliteiten_SwinnenJelte.pdf)
+-   [WPL4-EG-werkprestaties_SwinnenJelte.pdf](https://pxl-digital-sne-werkplekleren.github.io/portfolio-JelteSwinnenPXL/Ontwikkeling/WPL4-EG-werkprestaties_SwinnenJelte.pdf)
