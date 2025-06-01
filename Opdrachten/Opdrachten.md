@@ -39,5 +39,5 @@ Tijdens WPL2 heb ik me vooral bezig gehouden met Active Directory, powershell sc
 -   [ProbleemsituatieWPL32SNEaSwinnenJelte](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JelteSwinnenPXL/blob/main/Opdrachten/ProbleemsituatieWPL32SNEaSwinnenJelte.pdf)
 
 ## Opdrachten WPL 4
--   [WPL_Eindreflectie](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JelteSwinnenPXL/blob/main/Opdrachten/WPL_Eindreflectie_SwinnenJelte.pdf)
--   [WPL_Intervisie_opdracht_25-03](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JelteSwinnenPXL/blob/main/Opdrachten/WPL_Intervisie_opdracht_25-03_SwinnenJelte.pdf)
+-   [WPL_Eindreflectie](https://pxl-digital-sne-werkplekleren.github.io/portfolio-JelteSwinnenPXL/Opdrachten/WPL_Eindreflectie_SwinnenJelte.pdf)
+-   [WPL_Intervisie_opdracht_25-03](https://pxl-digital-sne-werkplekleren.github.io/portfolio-JelteSwinnenPXL/Opdrachten/WPL_Intervisie_opdracht_25-03_SwinnenJelte.pdf)
